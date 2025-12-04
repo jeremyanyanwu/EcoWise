@@ -3,7 +3,7 @@ EcoWise is an intelligent system that accurately calculates an individual’s da
 # EcoWise - AI Carbon Footprint Tracker
 
 ## How to run (takes < 2 minutes)
-1. Open the Colab notebook: https://colab.research.google.com/drive/1zK8vJ5iX9kL3mPqR8sT2vN7uF4gH6jK9
+1. Open the Colab notebook: https://colab.research.google.com/drive/1PH7_5fV3LZy8bbYU1GP-D5svXGW_2s1C#scrollTo=X3uzdWtnP52T
 2. Click "Runtime → Run all"
 3. The dataset is downloaded automatically
 4. Model trains in ~8 seconds
